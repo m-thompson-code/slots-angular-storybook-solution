@@ -1,5 +1,7 @@
 # Angular + Storybook: Dynamic Component Slots
 
+**[View Storybook →](https://m-thompson-code.github.io/slots-angular-storybook-solution/)**
+
 Three patterns for building Angular components with **configurable icon slots** that integrate with Storybook controls — without relying on `<ng-content>`.
 
 ## Why Not `<ng-content>`?
