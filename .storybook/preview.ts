@@ -11,6 +11,11 @@ const preview: Preview = {
        date: /Date$/i,
       },
     },
+    options: {
+      storySort: {
+        order: ['Button', ['1 - Input Signals', '2 - DI', '3 - Combined']],
+      },
+    },
   },
 };
 
